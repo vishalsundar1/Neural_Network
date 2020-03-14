@@ -1,7 +1,4 @@
-# Vishal, Sundareshwaran
-# 1001-572-777
-# 2018-10-08
-# Assignment_03_01
+
 
 
 import matplotlib
